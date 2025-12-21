@@ -17,11 +17,20 @@ app.get('/', (req, res) => {
 });
 
 app.get('/11252025', (req, res) => {
-    res.status(200).render('11252025');
+    res.status(200).render('11252025/11252025');
 });
 
+app.get('/12162025', (req, res) => {
+    res.status(200).render('12162025/12162025');
+});
+
+
 app.get('/11252025/respectme', (req, res) => {
-    res.sendFile(path.join(__dirname, 'resources/html/respectme.html'));
+    res.sendFile(path.join(__dirname, 'resources/html/builds/11252025/respectme.html'));
+})
+
+app.get('/12162025/respectme', (req, res) => {
+    res.sendFile(path.join(__dirname, 'resources/html/builds/12162025/homepage.html'));
 })
 
 

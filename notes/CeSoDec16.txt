@@ -1,0 +1,33 @@
+Questions to ask:
+    - "Additionally, Eurostat (Dr. R. Gatto, EU-LFS coordinator) 
+        and the OECD (Dr. A. Garnero & Dr. P.Marianna, labour economist and labour statistician at the
+        Directorate for Employment, Labour and Social Affairs) have expressed interest in participating as informal external observers."
+        Did they ever become IEOs?
+
+TODO (Carried over from previous weeks):
+    - Figure out publications!
+
+Main page:
+    - ReSTLess logo: SAME FONT AS RESPECTME
+
+Team: 
+    - Put everyone's individual photos in place of the placeholder
+
+Advisory Board: 
+    - DIGIT in Leeds University
+    - Eurostat and OECD ARE informal observers
+
+Links:
+    - See previous meeting
+
+About info:
+    - Dropdown menu
+
+ResPectMe: 
+    - Technical Report. Can go both in ResPectMe AND ReSTLess
+
+Valeria's Google Scholar:
+    - Look into why there are two accounts.
+    - Francqui Research Professor Mandate ON Google.
+    - Wikipedia page. 
+
