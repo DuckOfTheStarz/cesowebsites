@@ -8,23 +8,23 @@ TODO (Carried over from previous weeks):
     - Figure out publications!
 
 Main page:
-    - ReSTLess logo: SAME FONT AS RESPECTME
+    - ReSTLess logo: SAME FONT AS RESPECTME ✔
 
 Team: 
-    - Put everyone's individual photos in place of the placeholder
+    - Put everyone's individual photos in place of the placeholder ✔
 
 Advisory Board: 
     - DIGIT in Leeds University
-    - Eurostat and OECD ARE informal observers
+    - Eurostat and OECD ARE informal observers ✔
 
 Links:
-    - See previous meeting
+    - See previous meeting ✔
 
 About info:
-    - Dropdown menu
+    - Dropdown menu ✔
 
 ResPectMe: 
-    - Technical Report. Can go both in ResPectMe AND ReSTLess
+    - Technical Report. Can go both in ResPectMe AND ReSTLess <-- Done in ReSTLess
 
 Valeria's Google Scholar:
     - Look into why there are two accounts.

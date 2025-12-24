@@ -24,6 +24,11 @@ app.get('/12162025', (req, res) => {
     res.status(200).render('12162025/12162025');
 });
 
+app.get('/12252025', (req, res) => {
+    res.status(200).render('12252025/12252025');
+});
+
+
 
 app.get('/11252025/respectme', (req, res) => {
     res.sendFile(path.join(__dirname, 'resources/html/builds/11252025/respectme.html'));
@@ -31,6 +36,10 @@ app.get('/11252025/respectme', (req, res) => {
 
 app.get('/12162025/respectme', (req, res) => {
     res.sendFile(path.join(__dirname, 'resources/html/builds/12162025/homepage.html'));
+})
+
+app.get('/12252025/respectme', (req, res) => {
+    res.sendFile(path.join(__dirname, 'resources/html/builds/12252025/homepage.html'));
 })
 
 

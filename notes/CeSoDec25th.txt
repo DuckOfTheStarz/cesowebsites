@@ -1,0 +1,6 @@
+Questions to ask:
+- On funding page: Why no ReSTLess description? Do I need to build a page for that too? (funding_info: Funding info)
+- Detailed Project info: Where can I find the proposal summary for ReSTLess? (funding_info: Detailed project info)
+- Does Valeria want to make a video explaining ReSTLess? (about: video)
+- I need a photo of Carlos Roldán Mejías
+- Do you want me to write my own interpretations of the project? Or use your words?
